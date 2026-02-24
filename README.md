@@ -1,3 +1,3 @@
 # EllaMath
 
-EllaMath won't store any user data. No internet access.
+This is EllaMath related introduction page.
